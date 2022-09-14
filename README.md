@@ -1,5 +1,6 @@
 - Hi, I’m @GarbageCollectr and I have over 12 years of experience in IT.
 - I am currently transitioning out of the U.S. Army and working on starting a career in software engineering.
+- Learning C#, HTML, CSS, JS, SQL,  and Azure cloud developement as a student in Microsoft Software and Systems Academy.
 - I have a long way to go, but I am working on learning something new and reinforcing what I know every day.
 - Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/alex-werner/) or [Email](mailto:alex.d.werner@outlook.com).<br>
 ![flying sawn](e-mail-signature-logo.jpg)
